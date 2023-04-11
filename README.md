@@ -11,6 +11,6 @@
       <li>List item 2</li>
       <li>List item 3</li>
     </ul>
-    <img src="Ai.JPG" alt="Ai">
+    <img src="https://media.eggs.ca/assets/RecipeThumbs/_resampled/FillWyIxMjgwIiwiNzIwIl0/Prawns.jpg" alt="Ai">
   </body>
 </html>
