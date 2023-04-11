@@ -11,5 +11,6 @@
       <li>List item 2</li>
       <li>List item 3</li>
     </ul>
+    <img src="pic_trulli.jpg" alt="Italian Trulli">
   </body>
 </html>
