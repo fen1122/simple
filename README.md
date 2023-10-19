@@ -31,7 +31,7 @@
         </section>
     </main>
     <footer>
-        &copy; 2023 vSchoolTrend
+        &copy; 2023 Future School
     </footer>
     <script src="script.js"></script>
 </body>
