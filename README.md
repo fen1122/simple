@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>vSchoolTrend - 教育平台</title>
+    <title>Future School</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to vSchoolTrend</h1>
+        <h1>Welcome to Future School</h1>
         <nav>
             <ul>
                 <li><a href="#">首页</a></li>
